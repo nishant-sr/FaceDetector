@@ -1,6 +1,6 @@
 {
   "name": "face-detector",
-  "homepage":'https://github.com/nishant-sr/FaceDetector.git',
+  "homepage":"https://github.com/nishant-sr/FaceDetector.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
